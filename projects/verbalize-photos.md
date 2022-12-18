@@ -1,18 +1,6 @@
 # AI Photo Verbalizer
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 ![verbalize-photos-screenshot](/assets/verbalize-photos-ss.png)
-=======
-![verbalize-photos-screenshot](/images/verbalize-photos-ss.png)
->>>>>>> ab0c7ff (fix links)
-=======
-![verbalize-photos-screenshot](/assets/verbalize-photos-ss.png)
->>>>>>> fe6549c (cleanup)
-=======
-![verbalize-photos-screenshot](/assets/verbalize-photos-ss.png)
->>>>>>> 79b4943 (changes)
 
 Try it out: [verbalize.photos](verbalize.photos)
 

@@ -18,15 +18,6 @@ UXInsight (UXI) started as a final project for my _Information Visualization_ co
 - Material UI
 - SCSS
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 ## Screenshot
 
->>>>>>> fe6549c (cleanup)
-=======
->>>>>>> 34a5077 (changes)
-=======
->>>>>>> 79b4943 (changes)
 ![uxi-screenshot](/assets/uxi-ss.png)

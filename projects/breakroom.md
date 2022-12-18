@@ -1,18 +1,6 @@
 # Breakroom
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 ![breakroom-screenshot](/assets/breakroom-ss.png)
-=======
-![breakroom-screenshot](/images/breakroom-ss.png)
->>>>>>> ab0c7ff (fix links)
-=======
-![breakroom-screenshot](/assets/breakroom-ss.png)
->>>>>>> fe6549c (cleanup)
-=======
-![breakroom-screenshot](/assets/breakroom-ss.png)
->>>>>>> 79b4943 (changes)
 
 [beta.breakroom.chat](https://breakroom.chat)
 

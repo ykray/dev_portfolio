@@ -10,37 +10,13 @@ Users can chat anonymously with friends or share their link to chat with others:
 
 [video link (for smoother playback)](https://yulian.codes/resources/anoni-demo-1.mp4)
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 ![anoni-demo-1](/assets/anoni-demo-1.gif)
-=======
-![anoni-demo-1](/images/anoni-demo-1.gif)
->>>>>>> ab0c7ff (fix links)
-=======
-![anoni-demo-1](/assets/anoni-demo-1.gif)
->>>>>>> fe6549c (cleanup)
-=======
-![anoni-demo-1](/assets/anoni-demo-1.gif)
->>>>>>> 79b4943 (changes)
 
 Intuitive and friendly UI:
 
 [video link (for smoother playback)](https://yulian.codes/resources/anoni-demo-2.mp4)
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 ![anoni-demo-2](/assets/anoni-demo-2.gif)
-=======
-![anoni-demo-2](/images/anoni-demo-2.gif)
->>>>>>> ab0c7ff (fix links)
-=======
-![anoni-demo-2](/assets/anoni-demo-2.gif)
->>>>>>> fe6549c (cleanup)
-=======
-![anoni-demo-2](/assets/anoni-demo-2.gif)
->>>>>>> 79b4943 (changes)
 
 ## Skills
 

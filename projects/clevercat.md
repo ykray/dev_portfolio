@@ -1,18 +1,6 @@
 # Clevercat
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 ![clevercat-screenshot](/assets/clevercat-ss.png)
-=======
-![clevercat-screenshot](/images/clevercat-ss.png)
->>>>>>> ab0c7ff (fix links)
-=======
-![clevercat-screenshot](/assets/clevercat-ss.png)
->>>>>>> fe6549c (cleanup)
-=======
-![clevercat-screenshot](/assets/clevercat-ss.png)
->>>>>>> 79b4943 (changes)
 
 Source: [ykray/clevercat](https://github.com/ykray/Clevercat)
 
