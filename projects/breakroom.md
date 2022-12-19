@@ -4,7 +4,7 @@
 
 [beta.breakroom.chat](https://breakroom.chat)
 
-Breakroom is a proximity-based random group chat platform where users can chat with people nearby, about hyper-locally trending topics. Co-founded with [Yegor Chernyshev](https://github.com/ycherny), and under active development for iOS, Android and web.
+_Breakroom_ is a hyper-local random group chat where users can chat about, discover and share trending topics in their local area. Co-founded with [Yegor Chernyshev](https://github.com/ycherny), and under active development for iOS, Android and web.
 
 ## Skills
 
