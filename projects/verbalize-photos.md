@@ -1,8 +1,6 @@
-# AI Photo Verbalizer
+# [verbalize.photos](https://verbalize.photos)
 
 ![verbalize-photos-screenshot](/assets/verbalize-photos-ss.png)
-
-Try it out: [verbalize.photos](https://verbalize.photos)
 
 The internet is _heavily_ visual. Over _3 billion_ images are shared over the internet _daily_, most of which are completely hidden from users who can’t physically see them. Developers do not do enough - skimping on providing descriptive alt tags, aria-labels, and other means of supporting the accessibility of visual content. This project’s goal was to expand the experience of visual content by involving other senses in the absence of sight.
 
