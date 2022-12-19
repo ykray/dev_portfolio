@@ -4,7 +4,7 @@
 
 Source: [ykray/clevercat](https://github.com/ykray/Clevercat)
 
-I independently built _Clevercat_ as the final project for my _Principles of Database Systems_ course at NYU, going beyond just the basic requirements and adding a variety of additional features including _user-session management_, _SQLi mitigation_, _search by scope & relevancy_, amongst many more.
+I independently built **Clevercat** as the final project for my _Principles of Database Systems_ course at NYU, going beyond just the basic requirements and adding a variety of additional features including _user-session management_, _SQLi mitigation_, _search by scope & relevancy_, amongst many more.
 
 The project objective entailed building a fully-functional, SQL-driven question-and-answer system which supported features including:
 
