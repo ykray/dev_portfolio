@@ -1,6 +1,6 @@
 # UXInsight
 
-Note: un-mute the demo!
+**Note:** 🎧 un-mute the demo!
 
 https://user-images.githubusercontent.com/43590347/208270653-ef3a7e3b-ff05-4e40-84c1-3e2ba65200ba.mp4
 
