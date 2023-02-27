@@ -1,6 +1,6 @@
 # Anoni
 
-![anoni-screenshot](/assets/anoni-ss.png)
+[![anoni-screenshot](/assets/anoni-ss.png)](https://anoni.chat)
 
 [anoni.chat](https://anoni.chat)
 
