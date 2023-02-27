@@ -1,6 +1,6 @@
 # Breakroom
 
-![breakroom-screenshot](/assets/breakroom-ss.png)
+[![breakroom-screenshot](/assets/breakroom-ss.png)](https://beta.breakroom.chat)
 
 [beta.breakroom.chat](https://beta.breakroom.chat)
 
