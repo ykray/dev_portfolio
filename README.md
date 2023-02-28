@@ -17,4 +17,4 @@
 
 - [yulian.codes](https://yulian.codes)
 - [resume](https://drive.google.com/file/d/1Bctbrml9RGyIbULPcJRRggmM6D9iFVSQ/view)
-- linkedin: [@yulian-kraynyak](https://www.linkedin.com/in/yulian-kraynyak/)
+- in/[ykray](https://www.linkedin.com/in/ykray)
