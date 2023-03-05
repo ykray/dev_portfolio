@@ -1,6 +1,6 @@
 # Am I The Only One?
 
-[video link (for smoother playback)](https://yulian.codes/resources/am-i-the-only-one-demo.mp4)
+[video link](https://yulian.codes/resources/am-i-the-only-one-demo.mp4) (for smoother playback)
 
 ![am-i-the-only-one-demo](/assets/am-i-the-only-one-demo.gif)
 
