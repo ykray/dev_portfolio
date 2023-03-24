@@ -16,11 +16,14 @@ Users can chat anonymously with friends or share their link to chat with others:
 
 ![anoni-demo-1](/assets/anoni-demo-1.gif)
 
+---
+
 Intuitive and friendly UI:
 
 [video link (for smoother playback)](https://yulian.codes/resources/anoni-demo-2.mp4)
 
 ![anoni-demo-2](/assets/anoni-demo-2.gif)
+
 
 ## Skills
 
