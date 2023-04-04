@@ -1,5 +1,5 @@
 # Clevercat
-ykray/[clevercat](https://github.com/ykray/Clevercat)
+ykray/[clevercat](https://github.com/ykray/clevercat)
 
 ![clevercat-screenshot](/assets/clevercat-ss.png)
 
