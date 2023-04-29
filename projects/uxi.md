@@ -14,6 +14,7 @@ https://user-images.githubusercontent.com/43590347/208270653-ef3a7e3b-ff05-4e40-
 
 - TypeScript
 - React
+- D3.js
 - Redux
 - Express
 - Node.js
