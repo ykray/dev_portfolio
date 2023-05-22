@@ -1,6 +1,6 @@
 # Anoni
 
-A cross-platform messaging app that allows users to chat with their friends and others around the world, offering the option of anonymity. Users can jump into random chats, find and anonymously chat their friends, or share their unique links to get anonymous chats from other users (whether they have an account or not). Anonymity functionality is enforced on the backend through a combination of AES encryption and clever database design.
+Cross-platform messaging app that allows users to chat with their friends and others around the world, while offering the option of anonymity. Users can jump into random chats, find and anonymously chat their friends, or share their username-based links to get anonymous chats from others (whether or not they have an account).
 
 [![anoni-screenshot](/assets/anoni-ss.png)](https://anoni.chat)
 
@@ -25,14 +25,11 @@ Intuitive and friendly UI:
 ## Skills
 
 - TypeScript
-- JavaScript
-- React
-- React Native
+- React & React Native
 - Node.js
 - Firebase
 - NoSQL
-- AWS
 - Azure
 - Cryptography
-- Material UI
+- MUI
 - SCSS
