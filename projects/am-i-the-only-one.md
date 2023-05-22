@@ -11,7 +11,7 @@ This was a light-hearted, exploratory project to connect people by showing how c
 
 ## Skills
 
-- TypeScript
+- TypeScript + JavaScript
 - React
 - Node.js
 - NLP (Natural Language Processing)
