@@ -16,7 +16,7 @@ The project objective entailed building a fully-functional, SQL-driven question-
 
 ## Skills
 
-- TypeScript
+- TypeScript + JavaScript
 - React
 - Express
 - Node.js
