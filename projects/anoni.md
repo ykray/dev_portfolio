@@ -1,6 +1,6 @@
 # Anoni
 
-Cross-platform messaging app that allows users to chat with their friends and others around the world, while offering the option of anonymity. Users can jump into random chats, find and anonymously chat their friends, or share their username-based links to get anonymous chats from others (whether or not they have an account).
+Cross-platform messaging app built in React Native that allows users to chat with their friends and others around the world, while offering the option of anonymity. Users can jump into random chats, find and anonymously chat their friends, or share their username-based links to get anonymous chats from others (whether or not they have an account).
 
 [![anoni-screenshot](/assets/anoni-ss.png)](https://anoni.chat)
 
