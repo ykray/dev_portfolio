@@ -14,7 +14,7 @@
 
 ## Skills
 
-- TypeScript
+- TypeScript + JavaScript
 - React Native
 - Expo
 - Redux
