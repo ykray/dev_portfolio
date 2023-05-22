@@ -24,7 +24,7 @@ Intuitive and friendly UI:
 
 ## Skills
 
-- TypeScript
+- TypeScript + JavaScript
 - React & React Native
 - Node.js
 - Firebase
