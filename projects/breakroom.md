@@ -1,8 +1,14 @@
 # Breakroom
 
+[Yegor Chernyshev](https://github.com/ycherny)
+
+[Yulian Kraynyak](https://github.com/ykray)
+
+---
+
 [beta.breakroom.chat](https://beta.breakroom.chat)
 
-**Breakroom** is a hyper-local random group chat where users can chat about, discover and share trending topics in their local area. Co-founded with [Yegor Chernyshev](https://github.com/ycherny), and under active development for iOS, Android and web.
+**Breakroom** is a hyper-local random group chat, built in React Native, where users can chat about & discover trending topics in their local area. 
 
 [![breakroom-screenshot](/assets/breakroom-ss.png)](https://beta.breakroom.chat)
 
@@ -15,5 +21,5 @@
 - NX
 - Node.js
 - Firebase
-- Material UI
+- MUI
 - SCSS
