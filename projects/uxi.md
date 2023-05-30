@@ -11,13 +11,12 @@ https://user-images.githubusercontent.com/43590347/208270653-ef3a7e3b-ff05-4e40-
 UXI started as an exploratory project into information visualization, however quickly spiraled into a much larger idea—evaluating and improving UX using AI (ie: predicting UX issues and improving interface design by modelling user behavior). 
 ## Skills
 
-- TypeScript + JavaScript
+### Built with
+- TypeScript
+- Next.js
 - React
 - Redux
-- Next.js
-- Node.js
 - Nx
 - D3.js
-- MongoDB + Mongoose
-- MUI
-- SCSS
+- MongoDB
+- SCSS + MUI
