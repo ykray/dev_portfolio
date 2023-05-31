@@ -11,6 +11,6 @@ The Internet is heavily visual—over _3 billion_ images are shared over the int
 - TypeScript + JavaScript
 - React
 - Node
-- Azure
+- Azure Cognitive Services
 - Firebase
 - MUI + SCSS
