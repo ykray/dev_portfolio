@@ -22,14 +22,11 @@ Intuitive and friendly UI:
 ![anoni-demo-2](/assets/anoni-demo-2.gif)
 
 
-## Skills
+## Built with
 
 - TypeScript + JavaScript
-- React & React Native
-- Node.js
+- React + React Native
+- Node
 - Firebase
-- NoSQL
 - Azure
-- Cryptography
-- MUI
-- SCSS
+- MUI + SCSS
