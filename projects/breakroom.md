@@ -1,8 +1,8 @@
 # Breakroom
 
-[Yegor Chernyshev](https://github.com/ycherny)
+Yegor Chernyshev [@yCherny](https://github.com/ycherny)
 
-[Yulian Kraynyak](https://github.com/ykray)
+Yulian Kraynyak [@ykray](https://github.com/ykray)
 
 ---
 
@@ -12,14 +12,13 @@
 
 [![breakroom-screenshot](/assets/breakroom-ss.png)](https://beta.breakroom.chat)
 
-## Skills
+## Built with
 
 - TypeScript + JavaScript
-- React Native
+- React + React Native
 - Expo
 - Redux
-- NX
-- Node.js
+- Nx
+- Node
 - Firebase
-- MUI
-- SCSS
+- MUI + SCSS
