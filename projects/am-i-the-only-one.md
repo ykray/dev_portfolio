@@ -1,5 +1,5 @@
 # Am I the only one?
-(Probably not.)
+(probably not)
 
 
 This was a light-hearted, exploratory project to connect people by showing how common most of the things we are embarrassed of or wary of talking about/admitting to actually are.
@@ -16,5 +16,4 @@ This was a light-hearted, exploratory project to connect people by showing how c
 - Node.js
 - NLP (Natural Language Processing)
 - Firebase
-- NoSQL
 - SCSS
