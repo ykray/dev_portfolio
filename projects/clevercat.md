@@ -14,7 +14,7 @@ The project objective entailed building a fully-functional, SQL-driven question-
 - [... (full project report)](https://docs.google.com/document/d/1zMaOHhK5QVISJhw-zEy4btloMn8hCeytYXa21A--pWg/edit?usp=sharing)
 
 
-## Skills
+## Built with
 
 - TypeScript + JavaScript
 - React
