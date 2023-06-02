@@ -9,7 +9,7 @@ This was a light-hearted, exploratory project to connect people by showing how c
 ![am-i-the-only-one-demo](/assets/am-i-the-only-one-demo.gif)
 [video link](https://yulian.codes/resources/am-i-the-only-one-demo.mp4) (for smoother playback)
 
-## Skills
+## Built with
 
 - TypeScript + JavaScript
 - React
