@@ -4,7 +4,6 @@ Cross-platform messaging app built in React Native that allows users to chat wit
 
 [![anoni-screenshot](/assets/anoni-ss.png)](https://anoni.chat)
 
-
 ## Demo
 
 Users can chat anonymously with friends or share their link to chat with others:
@@ -21,12 +20,6 @@ Intuitive and friendly UI:
 
 ![anoni-demo-2](/assets/anoni-demo-2.gif)
 
+### Built with
 
-## Built with
-
-- TypeScript + JavaScript
-- React + React Native
-- Node
-- Firebase
-- Azure
-- MUI + SCSS
+`typescript` `javascript` `react` `react-native` `node` `firebase` `azure` `mui` `scss`

@@ -11,15 +11,9 @@ The project objective entailed building a fully-functional, SQL-driven question-
 - **Posting questions** under specific, hierarchical topics
 - **Answering questions**
 - **Voting on answers**
-- **Full-text search** 
+- **Full-text search**
 - [... (full project report)](https://docs.google.com/document/d/1zMaOHhK5QVISJhw-zEy4btloMn8hCeytYXa21A--pWg/edit?usp=sharing)
 
+### Built with
 
-## Built with
-
-- TypeScript + JavaScript
-- React
-- Express
-- Node
-- PostgreSQL
-- MUI + SCSS
+`typescript` `javascript` `react` `express` `node` `sql(postgres)` `mui` `scss`

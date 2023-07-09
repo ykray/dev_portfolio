@@ -6,11 +6,6 @@ The Internet is heavily visual—over _3 billion_ images are shared over the int
 
 [verbalize.photos](https://verbalize.photos) was built in React as final submission for my _Human Computer Interaction_ course at NYU. It aims to improve the experience of the visual side of the internet for visually-impaired users. Users can simply paste a photo or a link to a photo, and a human-like, verbal description of the photo is generated using Computer Vision, Speech Synthesis, and Natural Language Processing, along with Braille transcription (for Refreshable Braille Displays), and (experimental) “ambience” audio; further enhancing the imaginative experience by involving another sense of perception. Supports _voice control_, _keyboard navigation_, and _multiple languages_ (English, French, Polish, Ukrainian, Russian).
 
-## Built with
+### Built with
 
-- TypeScript + JavaScript
-- React
-- Node
-- Azure Cognitive Services
-- Firebase
-- MUI + SCSS
+`typescript` `javascript` `react` `node` `azure` `firebase` `mui` `scss`

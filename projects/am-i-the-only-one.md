@@ -1,6 +1,6 @@
 # Am I the only one?
-(probably not)
 
+(probably not)
 
 This was a light-hearted, exploratory project to connect people by showing how common most of the things we are embarrassed of or wary of talking about/admitting to actually are.
 
@@ -9,11 +9,6 @@ This was a light-hearted, exploratory project to connect people by showing how c
 ![am-i-the-only-one-demo](/assets/am-i-the-only-one-demo.gif)
 [video link](https://yulian.codes/resources/am-i-the-only-one-demo.mp4) (for smoother playback)
 
-## Built with
+### Built with
 
-- TypeScript + JavaScript
-- React
-- Node.js
-- NLP (Natural Language Processing)
-- Firebase
-- SCSS
+`typescript` `javascript` `react` `node` `nlp` `firebase` `scss`
