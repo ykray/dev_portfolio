@@ -12,4 +12,4 @@ UXI started as my final project for _Information Visualization_ at NYU, however 
 
 ### Built with
 
-`typescript` `next` `react` `redux` `nx` `d3` `no-sql(mongodb)` `scss` `mui`
+`typescript` `next` `react` `redux` `nx` `d3` `nosql(mongodb)` `scss` `mui`
