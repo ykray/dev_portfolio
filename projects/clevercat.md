@@ -4,7 +4,7 @@ ykrx/[clevercat](https://github.com/ykrx/Clevercat)
 
 ![clevercat-screenshot](/assets/clevercat-ss.png)
 
-Independently built **Clevercat** as my final project for _Principles of Database Systems_ at NYU, going beyond basic requirements and adding a variety of additional features including _user-session management_, _SQLi mitigation_, _search by scope & relevancy_, and more.
+**Clevercat** was independently developed as my final project for _Principles of Database Systems_ at NYU, going beyond basic requirements and adding a variety of additional features including _user-session management_, _SQLi mitigation_, _search by scope & relevancy_, and more.
 
 The project objective entailed building a fully-functional, SQL-driven question-and-answer system which supported:
 
